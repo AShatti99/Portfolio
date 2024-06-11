@@ -1,0 +1,63 @@
+{   
+    "header": {
+        "about": "About Me"
+    },
+
+    "hero": {
+
+        "introduction": "👋 Hi there! I'm <br> <span> Ahmad Shatti </span> <br> Software Developer",
+
+        "resume": "Resume",
+
+        "contact": "Contact Me"
+    },
+
+    "about": {
+
+        "background": "My Background",
+
+        "story": "Hello! My name is Ahmad Shatti. I recently graduated in <span>Computer Science</span> from <span>University of Pisa</span>, after completing my high school education with a diploma in <span>Business Information Systems</span>. I'm a creative person passionate about software development and everything related to it. My goal is to continuously develop this passion and expand my knowledge in the field."
+    },
+
+    "portfolio": {
+        "projects": "My Recent Projects",
+
+        "portfolio": "Portfolio Website",
+
+        "built-website": "Built in <span> HTML, CSS & Javascript </span>",
+
+        "details": "Details",
+
+        "c-program": "Multi-Process-Threaded C Program",
+
+        "built-c": "Built in <span> C </span>",
+
+        "socialMedia": "A Simplified Social Media Inspired",
+
+        "built-Java": "Built in <span> Java </span>",
+
+        "modal-website": "The website serves as an interactive portfolio, ensuring an optimal experience across different devices with its responsive design. The website is available in both English and Italian. In the 'About Me' section, you'll find information about my academic background, while the 'Portfolio' showcases a selection of my most recent projects. Moreover, you have the option to download my resume or reach out to me via email for any questions.",
+
+        "modal-c": "The project involves developing a C program that utilizes multiple processes and threads to manage communication and data processing. The program consists of two processes: 'MasterWorker' and 'Collector'. 'MasterWorker' is a multi-threaded process that includes a Master thread and a variable number of Worker threads. The Worker threads process binary files containing integers and send the results to the 'Collector' process via AF_LOCAL sockets. The 'Collector' process receives, sorts, and prints the results. The project also requires handling specific signals for the control and orderly termination of the processes.",
+
+        "modal-Java": "The project is a social media platform inspired by STEEMIT, a blockchain-based platform that rewards users for quality content. It employs a client-server architecture to manage content and rewards, simplifying the reward calculation mechanism compared to STEEMIT. Users can publish, vote, and comment on content, receiving rewards in 'wincoin'. The system periodically calculates rewards based on user interaction with the content. Registration, login, and other operations are handled through RMI and TCP. Data persistence is achieved through JSON files."
+    },
+
+    "contact": {
+        "contact-title": "Reach Me Out",
+        
+        "name": "Name",
+
+        "message": "Message",
+
+        "send": "Send Message",
+
+        "name-placeholder": "Write Your Name",
+
+        "email-placeholder": "Write Your Email",
+
+        "message-placeholder": "Write Your Message",
+
+        "status": "Status: message not sent ⏳"
+    }
+}

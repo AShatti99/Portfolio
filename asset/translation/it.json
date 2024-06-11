@@ -1,0 +1,62 @@
+{   
+    "header": {
+        "about": "Chi sono"
+    },
+
+    "hero": {
+        "introduction": "👋 Ciao! Sono <br> <span> Ahmad Shatti </span> <br> Software Developer",
+
+        "resume": "Curriculum",
+
+        "contact": "Contattami"
+    },
+
+    "about": {
+
+        "background": "Il Mio Background",
+
+        "story": "Ciao! Mi chiamo Ahmad Shatti. Mi sono laureato di recente in <span>Informatica</span> presso l'<span>Università di Pisa</span>, dopo aver conseguito il diploma in <span> Sistemi Informativi Aziendali </span> alle scuole superiori. Sono una persona creativa e appassionata di sviluppo software e tutto ciò che riguarda questo ambito. Il mio obiettivo è continuare a coltivare questa passione e ampliare le mie conoscenze nel settore."
+    },
+
+    "portfolio": {
+        "projects": "Progetti Recenti",
+
+        "portfolio": "Sito Web Portfolio",
+
+        "built-website": "Realizzato in <span> HTML, CSS & Javascript </span>",
+
+        "details": "Dettagli",
+
+        "c-program": "Programma C Multi-Processo-Thread",
+
+        "built-c": "Realizzato in <span> C </span>",
+
+        "socialMedia": "Ispirato a un Social Media Semplificato",
+
+        "built-Java": "Realizzato in <span> Java </span>",
+
+        "modal-website": "Il sito web funge da portfolio interattivo, garantendo un'esperienza ottimale su diversi dispositivi grazie al suo design responsivo. Il sito è disponibile sia in inglese che in italiano. Nella sezione 'Chi sono', troverai informazioni sul mio percorso accademico, mentre il 'Portfolio' presenta una selezione dei miei progetti più recenti. Inoltre, hai la possibilità di scaricare il mio curriculum o contattarmi via email per qualsiasi domanda.",
+
+        "modal-c": "Il progetto prevede lo sviluppo di un programma in C che utilizza processi e thread multipli per gestire la comunicazione e l'elaborazione dei dati. Il programma è composto da due processi: 'MasterWorker' e 'Collector'. 'MasterWorker' è un processo multi-thread che include un thread Master e un numero variabile di thread Worker. I thread Worker elaborano file binari contenenti interi e inviano i risultati al processo 'Collector' tramite socket AF_LOCAL. Il processo 'Collector' riceve, ordina e stampa i risultati. Il progetto richiede anche la gestione di segnali specifici per il controllo e la terminazione ordinata dei processi.",
+
+        "modal-Java": "Il progetto è una piattaforma social ispirata a STEEMIT, una piattaforma basata su blockchain che ricompensa gli utenti per i contenuti di qualità. Utilizza un'architettura client-server per gestire contenuti e ricompense, semplificando il meccanismo di calcolo delle ricompense rispetto a STEEMIT. Gli utenti possono pubblicare, votare e commentare i contenuti, ricevendo ricompense in 'wincoin'. Il sistema calcola periodicamente le ricompense in base all'interazione degli utenti con i contenuti. La registrazione, il login e altre operazioni sono gestite tramite RMI e TCP. La persistenza dei dati è ottenuta attraverso file JSON."
+    },
+
+    "contact": {
+        "contact-title": "Inviami Una Email",
+        
+        "name": "Nome",
+
+        "message": "Messaggio",
+
+        "send": "Invia Email",
+
+        "name-placeholder": "Inserisci il Nome",
+
+        "email-placeholder": "Inserisci l'Email",
+
+        "message-placeholder": "Inserisci il Messaggio",
+
+        "status": "Stato: email non inviata ⏳"
+    }
+}
